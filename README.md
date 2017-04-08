@@ -31,6 +31,3 @@ bikeImg = loadImage("bike.jpg");
 ```
 You can now add that image as many times as you want using one of the following lines of code
 ```image(bikeImg, x ,y, width_you_want, height_you_want);``` or ```image(bikeImg, 25,100);```  This will just use the picture’s normal width and height.
-
-# Turn in your assignment
-[Submitt your assignment for marking here](https://docs.google.com/a/epsb.ca/forms/d/e/1FAIpQLSdnnOUlwawWq9wmrKJZH40JlfNuSE8QaFGsJ_6OlzZle7m3MA/viewform)
