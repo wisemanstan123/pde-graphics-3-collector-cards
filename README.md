@@ -1,4 +1,7 @@
-# CSE1110-assignment-3
+# processing-graphics-assignment-3-collector-cards
+
+[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 Create collector cards in Processing
 	
 Your job is to create a:
