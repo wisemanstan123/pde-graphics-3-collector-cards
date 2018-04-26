@@ -1,6 +1,6 @@
 # processing-graphics-assignment-3-collector-cards
 
-[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
 Create collector cards in Processing
 	
