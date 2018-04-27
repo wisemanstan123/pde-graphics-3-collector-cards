@@ -1,4 +1,4 @@
-# processing-graphics-assignment-3-collector-cards
+# processing-graphics-3-collector-cards
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
@@ -21,7 +21,7 @@ Your card must include the following:
 
 Final 20%... To get top marks, you must include at least 3 pictures, multiple shapes and more than 3 text blocks.
 
-# Need Help?  
+## Tip
 * For Text: Link to the following tutorial and then scroll down to the section called Displaying Text.
 http://processing.org/tutorials/text/
 * For Adding Pictures: http://processing.org/tutorials/pixels/ or follow these instructions:
