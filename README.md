@@ -13,10 +13,10 @@ It can be about an athlete, actor, musician, etc. or can be similar to a Magic o
 Your card must include the following:
 * a background colour
 * a picture of the person (you may also want a second picture for the team, show, etc.)
-* 3 different text sizes and/or fonts to describe the following:
-* person’s name
-* facts or statistics
-* your company logo
+* Custom fonts to describe the following:
+  * person’s name
+  * facts or statistics
+  * your company logo
 * At least one basic processing shape (suchs as rectangles to create borders and coloring)
 
 ## Bonus Challenge
@@ -25,6 +25,7 @@ Your card must include the following:
 * more than 3 text blocks each with a different font and size
 
 ## Tip
+* Reference page for fonts: https://processing.org/reference/PFont.html
 * For Text: Link to the following tutorial and then scroll down to the section called Displaying Text.
 http://processing.org/tutorials/text/
 * For Adding Pictures: http://processing.org/tutorials/pixels/ or follow these instructions:
