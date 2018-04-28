@@ -2,39 +2,29 @@
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
-Create collector cards in Processing
-	
-Your job is to create a:
-* hockey card
-* or game card image
-* or an ID Card  
-
-It can be about an athlete, actor, musician, etc. or can be similar to a Magic or Pokemon type game card.
-Your card must include the following:
+In this assignment you will be creating collector cards, for example a sports card (e.g. a hockey card), game card (e.g. Pokemon card) or an ID Card. You choose the type of card you would like to make. Your card must include the following components:  
 * a background colour
-* a picture of the person (you may also want a second picture for the team, show, etc.)
-* Custom fonts to describe the following:
-  * person’s name
-  * facts or statistics
-  * your company logo
-* At least one basic processing shape (suchs as rectangles to create borders and coloring)
+* at least one embedded image 
+* images must be displayed with the correct aspect ratio
+* text using at least one non-default font 
+* at least three basic shapes (rectabgles, elipses, curves, arc, etc.)
 
 ## Bonus Challenge
-* include at least 3 pictures/images
-* multiple shapes (rectangles, ellipses, curves, arcs) 
-* more than 3 text blocks each with a different font and size
+* using an image for the canvas background
+* include at least 3 images
+* more than three basic shapes  
+* more than three different font types
 
-## Tip
-* Reference page for fonts: https://processing.org/reference/PFont.html
-* For Text: Link to the following tutorial and then scroll down to the section called Displaying Text.
-http://processing.org/tutorials/text/
-* For Adding Pictures: http://processing.org/tutorials/pixels/ or follow these instructions:
-1. Save a picture with a simple name.
-1. In Processing, choose Sketch… Add File and go find that picture you just saved
-1. Set up the picture with these two lines:  
-```
+## References
+* Fonts: https://processing.org/reference/PFont.html
+* Text: http://processing.org/tutorials/text/
+* Images: http://processing.org/tutorials/pixels/ 
+
+`
 PImage bikeImg;        
 bikeImg = loadImage("bike.jpg");
-```
-You can now add that image as many times as you want using one of the following lines of code
-```image(bikeImg, x ,y, width_you_want, height_you_want);``` or ```image(bikeImg, 25,100);```  This will just use the picture’s normal width and height.
+image(bikeImg, x ,y, width_you_want, height_you_want);` 
+
+or 
+
+`image(bikeImg, 25,100);`
