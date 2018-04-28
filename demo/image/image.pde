@@ -1,18 +1,18 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * backgroundImage
+ * by Mario Pineda
  * 
- * <Two sentence description of program>
+ * Demo code showing how to use an image for the canvas background.
  * 
  */
  
-PImage catImg; // Global variable declaration
+PImage kitty; // Global variable declaration
  
 void setup() {
-  catImg = loadImage("cat.jpeg"); // Load image from data directory
+  kitty = loadImage("cat.jpeg"); // Load image from data directory
   size(400, 273); // Canvas sized to image size
 }
 
 void draw() {  
-  image(catImg, 0, 0, 400, 273); // Display image
+  image(kitty, 0, 0, 400, 273); // Display image
 }
