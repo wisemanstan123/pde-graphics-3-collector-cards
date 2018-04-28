@@ -19,7 +19,10 @@ Your card must include the following:
 * your company logo
 * At least one basic processing shape (suchs as rectangles to create borders and coloring)
 
-Final 20%... To get top marks, you must include at least 3 pictures, multiple shapes and more than 3 text blocks.
+## Bonus Challenge
+* include at least 3 pictures/images
+* multiple shapes (rectangles, ellipses, curves, arcs) 
+* more than 3 text blocks each with a different font and size
 
 ## Tip
 * For Text: Link to the following tutorial and then scroll down to the section called Displaying Text.
