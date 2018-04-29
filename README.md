@@ -1,6 +1,6 @@
 # processing-graphics-3-collector-cards
 
-**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+**[Assignment Standard Operating Procedures](https://github.com/mariopineda/assignment-sops)**
 
 In this assignment you will be creating a collector card, e.g. a sports card (e.g. a hockey card), game card (e.g. Pokemon card) or an ID Card. You choose the type of card you would like to make. Your card must include the following components:  
 * a background colour
