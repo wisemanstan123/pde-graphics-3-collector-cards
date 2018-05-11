@@ -1,8 +1,8 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * Colecter Card
+ * by Stanley
  * 
- * <Two sentence description of program>
+ * creating a collecters card for my intro comp science class.
  * 
  */
 PFont myFont;
@@ -38,6 +38,9 @@ fill(0);
   textSize(25);
     text("Mystical Face", 50, 58);//title
   textSize(15);
-    text("\"A smiling face with the \npower to destroy anything\"", 60, 430);//discription
-  
+    text("Mystical Monster:", 50, 420);//card type
+    text("\"A smiling face with the \npower to destroy anything\"", 60, 440);//discription
+  textSize(10);
+    text("AP/3000", 160, 485);//attack points
+    text("HP/2500", 210, 485);//health points
 }
